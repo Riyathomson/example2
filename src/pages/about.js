@@ -10,6 +10,8 @@ class About extends React.Component{
                <Header />
 <br></br>
 <br></br>
+
+
 <section id="about" className="about">
 <div className="container" data-aos="fade-up">
   <div className="section-header">
