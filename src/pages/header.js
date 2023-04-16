@@ -1,16 +1,30 @@
 import React from 'react';
 
-class Header extends React.Component{
-    render(){
+
+
+
+
+function Header() {
+
+  function mobileNavToogle() {
+  document.querySelector('body').classList.toggle('mobile-nav-active');
+    document.querySelector('.mobile-nav-show').classList.toggle('d-none');
+    document.querySelector('.mobile-nav-hide').classList.toggle('d-none');
+  }
         return(
             <div>
+
+
+
+
+
+
 
 
 <header id="header" className="header fixed-top d-flex align-items-center">
     <div className="container d-flex align-items-center justify-content-between">
       <a href="index.html" className="logo d-flex align-items-center me-auto me-lg-0">
-        {/* Uncomment the line below if you also wish to use an image logo */}
-        {/* <img src="assets/img/logo.png" alt=""> */}
+        
         <h1>Yummy<span>.</span></h1>
       </a>
       <nav id="navbar" className="navbar">
@@ -42,8 +56,8 @@ class Header extends React.Component{
         </ul>
       </nav>{/* .navbar */}
       <a className="btn-book-a-table" href="#book-a-table">Book a Table</a>
-      <i className="mobile-nav-toggle mobile-nav-show bi bi-list" />
-      <i className="mobile-nav-toggle mobile-nav-hide d-none bi bi-x" />
+      <i className=" mobile-nav-toggle mobile-nav-show bi bi-list  "  onClick={mobileNavToogle} />
+      <i className="mobile-nav-toggle mobile-nav-hide d-none bi bi-x" onClick={mobileNavToogle} />
     </div>
   </header>{/* End Header */}
 
@@ -53,6 +67,6 @@ class Header extends React.Component{
             </div>
         );
     }
-}
+
 
 export default Header;

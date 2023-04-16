@@ -19,7 +19,7 @@ class About extends React.Component{
     <p>Learn More <span>About Us</span></p>
   </div>
   <div className="row gy-4">
-    <div className="col-lg-7 position-relative about-img" style={{"background-image":"url(assets/img/about.jpg)"}} data-aos="fade-up" data-aos-delay={150}>
+    <div className="col-lg-7 position-relative about-img" style={{"backgroundImage":"url(assets/img/about.jpg)"}} data-aos="fade-up" data-aos-delay={150}>
       <div className="call-us position-absolute">
         <h4>Book a Table</h4>
         <p>+1 5589 55488 55</p>
@@ -41,7 +41,7 @@ class About extends React.Component{
           velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
         </p>
         <div className="position-relative mt-4">
-          <img src="assets/img/about-2.jpg" className="img-fluid" alt />
+          <img src="assets/img/about-2.jpg" className="img-fluid" />
           <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" className="glightbox play-btn" />
         </div>
       </div>

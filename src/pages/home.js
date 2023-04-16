@@ -26,7 +26,7 @@ class Home extends React.Component{
           </div>
         </div>
         <div className="col-lg-5 order-1 order-lg-2 text-center text-lg-start">
-          <img src="assets/img/hero-img.png" className="img-fluid" alt data-aos="zoom-out" data-aos-delay={300} />
+          <img src="assets/img/hero-img.png" className="img-fluid" alt="Image not found"data-aos="zoom-out" data-aos-delay={300} />
         </div>
       </div>
     </div>
@@ -145,7 +145,7 @@ class Home extends React.Component{
             </div>
             <div className="row gy-5">
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-1.png" className="glightbox"><img src="assets/img/menu/menu-item-1.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-1.png" className="glightbox"><img src="assets/img/menu/menu-item-1.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Magnam Tiste</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -155,7 +155,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-2.png" className="glightbox"><img src="assets/img/menu/menu-item-2.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-2.png" className="glightbox"><img src="assets/img/menu/menu-item-2.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Aut Luia</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -165,7 +165,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-3.png" className="glightbox"><img src="assets/img/menu/menu-item-3.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-3.png" className="glightbox"><img src="assets/img/menu/menu-item-3.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Est Eligendi</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -175,7 +175,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-4.png" className="glightbox"><img src="assets/img/menu/menu-item-4.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-4.png" className="glightbox"><img src="assets/img/menu/menu-item-4.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Eos Luibusdam</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -185,7 +185,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-5.png" className="glightbox"><img src="assets/img/menu/menu-item-5.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-5.png" className="glightbox"><img src="assets/img/menu/menu-item-5.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Eos Luibusdam</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -195,7 +195,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-6.png" className="glightbox"><img src="assets/img/menu/menu-item-6.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-6.png" className="glightbox"><img src="assets/img/menu/menu-item-6.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Laboriosam Direva</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -213,7 +213,7 @@ class Home extends React.Component{
             </div>
             <div className="row gy-5">
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-1.png" className="glightbox"><img src="assets/img/menu/menu-item-1.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-1.png" className="glightbox"><img src="assets/img/menu/menu-item-1.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Magnam Tiste</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -223,7 +223,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-2.png" className="glightbox"><img src="assets/img/menu/menu-item-2.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-2.png" className="glightbox"><img src="assets/img/menu/menu-item-2.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Aut Luia</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -233,7 +233,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-3.png" className="glightbox"><img src="assets/img/menu/menu-item-3.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-3.png" className="glightbox"><img src="assets/img/menu/menu-item-3.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Est Eligendi</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -243,7 +243,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-4.png" className="glightbox"><img src="assets/img/menu/menu-item-4.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-4.png" className="glightbox"><img src="assets/img/menu/menu-item-4.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Eos Luibusdam</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -253,7 +253,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-5.png" className="glightbox"><img src="assets/img/menu/menu-item-5.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-5.png" className="glightbox"><img src="assets/img/menu/menu-item-5.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Eos Luibusdam</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -263,7 +263,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-6.png" className="glightbox"><img src="assets/img/menu/menu-item-6.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-6.png" className="glightbox"><img src="assets/img/menu/menu-item-6.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Laboriosam Direva</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -281,7 +281,7 @@ class Home extends React.Component{
             </div>
             <div className="row gy-5">
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-1.png" className="glightbox"><img src="assets/img/menu/menu-item-1.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-1.png" className="glightbox"><img src="assets/img/menu/menu-item-1.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Magnam Tiste</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -291,7 +291,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-2.png" className="glightbox"><img src="assets/img/menu/menu-item-2.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-2.png" className="glightbox"><img src="assets/img/menu/menu-item-2.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Aut Luia</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -301,7 +301,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-3.png" className="glightbox"><img src="assets/img/menu/menu-item-3.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-3.png" className="glightbox"><img src="assets/img/menu/menu-item-3.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Est Eligendi</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -311,7 +311,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-4.png" className="glightbox"><img src="assets/img/menu/menu-item-4.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-4.png" className="glightbox"><img src="assets/img/menu/menu-item-4.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Eos Luibusdam</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -321,7 +321,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-5.png" className="glightbox"><img src="assets/img/menu/menu-item-5.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-5.png" className="glightbox"><img src="assets/img/menu/menu-item-5.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Eos Luibusdam</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -331,7 +331,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-6.png" className="glightbox"><img src="assets/img/menu/menu-item-6.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-6.png" className="glightbox"><img src="assets/img/menu/menu-item-6.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Laboriosam Direva</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -349,7 +349,7 @@ class Home extends React.Component{
             </div>
             <div className="row gy-5">
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-1.png" className="glightbox"><img src="assets/img/menu/menu-item-1.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-1.png" className="glightbox"><img src="assets/img/menu/menu-item-1.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Magnam Tiste</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -359,7 +359,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-2.png" className="glightbox"><img src="assets/img/menu/menu-item-2.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-2.png" className="glightbox"><img src="assets/img/menu/menu-item-2.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Aut Luia</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -369,7 +369,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-3.png" className="glightbox"><img src="assets/img/menu/menu-item-3.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-3.png" className="glightbox"><img src="assets/img/menu/menu-item-3.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Est Eligendi</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -379,7 +379,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-4.png" className="glightbox"><img src="assets/img/menu/menu-item-4.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-4.png" className="glightbox"><img src="assets/img/menu/menu-item-4.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Eos Luibusdam</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -389,7 +389,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-5.png" className="glightbox"><img src="assets/img/menu/menu-item-5.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-5.png" className="glightbox"><img src="assets/img/menu/menu-item-5.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Eos Luibusdam</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -399,7 +399,7 @@ class Home extends React.Component{
                 </p>
               </div>{/* Menu Item */}
               <div className="col-lg-4 menu-item">
-                <a href="assets/img/menu/menu-item-6.png" className="glightbox"><img src="assets/img/menu/menu-item-6.png" className="menu-img img-fluid" alt /></a>
+                <a href="assets/img/menu/menu-item-6.png" className="glightbox"><img src="assets/img/menu/menu-item-6.png" className="menu-img img-fluid" alt="Image not found"/></a>
                 <h4>Laboriosam Direva</h4>
                 <p className="ingredients">
                   Lorem, deren, trataro, filede, nerada
@@ -440,7 +440,7 @@ class Home extends React.Component{
                     </div>
                   </div>
                   <div className="col-lg-2 text-center">
-                    <img src="assets/img/testimonials/testimonials-1.jpg" className="img-fluid testimonial-img" alt />
+                    <img src="assets/img/testimonials/testimonials-1.jpg" className="img-fluid testimonial-img" alt="Image not found"/>
                   </div>
                 </div>
               </div>
@@ -463,7 +463,7 @@ class Home extends React.Component{
                     </div>
                   </div>
                   <div className="col-lg-2 text-center">
-                    <img src="assets/img/testimonials/testimonials-2.jpg" className="img-fluid testimonial-img" alt />
+                    <img src="assets/img/testimonials/testimonials-2.jpg" className="img-fluid testimonial-img" alt="Image not found"/>
                   </div>
                 </div>
               </div>
@@ -486,7 +486,7 @@ class Home extends React.Component{
                     </div>
                   </div>
                   <div className="col-lg-2 text-center">
-                    <img src="assets/img/testimonials/testimonials-3.jpg" className="img-fluid testimonial-img" alt />
+                    <img src="assets/img/testimonials/testimonials-3.jpg" className="img-fluid testimonial-img" alt="Image not found"/>
                   </div>
                 </div>
               </div>
@@ -509,7 +509,7 @@ class Home extends React.Component{
                     </div>
                   </div>
                   <div className="col-lg-2 text-center">
-                    <img src="assets/img/testimonials/testimonials-4.jpg" className="img-fluid testimonial-img" alt />
+                    <img src="assets/img/testimonials/testimonials-4.jpg" className="img-fluid testimonial-img" alt="Image not found"/>
                   </div>
                 </div>
               </div>
@@ -565,12 +565,12 @@ class Home extends React.Component{
           <div className="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay={100}>
             <div className="chef-member">
               <div className="member-img">
-                <img src="assets/img/chefs/chefs-1.jpg" className="img-fluid" alt />
+                <img src="assets/img/chefs/chefs-1.jpg" className="img-fluid" alt="Image not found"/>
                 <div className="social">
-                  <a href><i className="bi bi-twitter" /></a>
-                  <a href><i className="bi bi-facebook" /></a>
-                  <a href><i className="bi bi-instagram" /></a>
-                  <a href><i className="bi bi-linkedin" /></a>
+                  <a href="#"><i className="bi bi-twitter" /></a>
+                  <a href="#"><i className="bi bi-facebook" /></a>
+                  <a href="#"><i className="bi bi-instagram" /></a>
+                  <a href="#"><i className="bi bi-linkedin" /></a>
                 </div>
               </div>
               <div className="member-info">
@@ -583,12 +583,12 @@ class Home extends React.Component{
           <div className="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay={200}>
             <div className="chef-member">
               <div className="member-img">
-                <img src="assets/img/chefs/chefs-2.jpg" className="img-fluid" alt />
+                <img src="assets/img/chefs/chefs-2.jpg" className="img-fluid" alt="Image not found"/>
                 <div className="social">
-                  <a href><i className="bi bi-twitter" /></a>
-                  <a href><i className="bi bi-facebook" /></a>
-                  <a href><i className="bi bi-instagram" /></a>
-                  <a href><i className="bi bi-linkedin" /></a>
+                  <a href="#"><i className="bi bi-twitter" /></a>
+                  <a href="#"><i className="bi bi-facebook" /></a>
+                  <a href="#"><i className="bi bi-instagram" /></a>
+                  <a href="#"><i className="bi bi-linkedin" /></a>
                 </div>
               </div>
               <div className="member-info">
@@ -601,12 +601,12 @@ class Home extends React.Component{
           <div className="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay={300}>
             <div className="chef-member">
               <div className="member-img">
-                <img src="assets/img/chefs/chefs-3.jpg" className="img-fluid" alt />
+                <img src="assets/img/chefs/chefs-3.jpg" className="img-fluid" alt="Image not found"/>
                 <div className="social">
-                  <a href><i className="bi bi-twitter" /></a>
-                  <a href><i className="bi bi-facebook" /></a>
-                  <a href><i className="bi bi-instagram" /></a>
-                  <a href><i className="bi bi-linkedin" /></a>
+                  <a href="#"><i className="bi bi-twitter" /></a>
+                  <a href="#"><i className="bi bi-facebook" /></a>
+                  <a href="#"><i className="bi bi-instagram" /></a>
+                  <a href="#"><i className="bi bi-linkedin" /></a>
                 </div>
               </div>
               <div className="member-info">
@@ -627,7 +627,7 @@ class Home extends React.Component{
           <p>Book <span>Your Stay</span> With Us</p>
         </div>
         <div className="row g-0">
-          <div className="col-lg-4 reservation-img" style={{"background-image":"url(assets/img/reservation.jpg)"}} data-aos="zoom-out" data-aos-delay={200} />
+          <div className="col-lg-4 reservation-img" style={{"backgroundImage":"url(assets/img/reservation.jpg)"}} data-aos="zoom-out" data-aos-delay={200} />
           <div className="col-lg-8 d-flex align-items-center reservation-form-bg">
             <form action="forms/book-a-table.php" method="post" role="form" className="php-email-form" data-aos="fade-up" data-aos-delay={100}>
               <div className="row gy-4">
@@ -684,14 +684,14 @@ class Home extends React.Component{
 
         <div className="gallery-slider swiper">
           <div className="swiper-wrapper align-items-center">
-            <div className="swiper-slide"><a className="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-1.jpg"><img src="assets/img/gallery/gallery-1.jpg" className="img-fluid" alt=""/></a></div>
-            <div className="swiper-slide"><a className="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-2.jpg"><img src="assets/img/gallery/gallery-2.jpg" className="img-fluid" alt=""/></a></div>
-            <div className="swiper-slide"><a className="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-3.jpg"><img src="assets/img/gallery/gallery-3.jpg" className="img-fluid" alt=""/></a></div>
-            <div className="swiper-slide"><a className="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-4.jpg"><img src="assets/img/gallery/gallery-4.jpg" className="img-fluid" alt=""/></a></div>
-            <div className="swiper-slide"><a className="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-5.jpg"><img src="assets/img/gallery/gallery-5.jpg"className="img-fluid" alt=""/></a></div>
-            <div className="swiper-slide"><a className="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-6.jpg"><img src="assets/img/gallery/gallery-6.jpg" className="img-fluid" alt=""/></a></div>
-            <div className="swiper-slide"><a className="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-7.jpg"><img src="assets/img/gallery/gallery-7.jpg"className="img-fluid" alt=""/></a></div>
-            <div className="swiper-slide"><a className="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-8.jpg"><img src="assets/img/gallery/gallery-8.jpg" className="img-fluid" alt=""/></a></div>
+            <div className="swiper-slide"><a className="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-1.jpg"><img src="assets/img/gallery/gallery-1.jpg" className="img-fluid" /></a></div>
+            <div className="swiper-slide"><a className="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-2.jpg"><img src="assets/img/gallery/gallery-2.jpg" className="img-fluid" alt="Image not found"/></a></div>
+            <div className="swiper-slide"><a className="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-3.jpg"><img src="assets/img/gallery/gallery-3.jpg" className="img-fluid" alt="Image not found"/></a></div>
+            <div className="swiper-slide"><a className="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-4.jpg"><img src="assets/img/gallery/gallery-4.jpg" className="img-fluid" alt="Image not found"/></a></div>
+            <div className="swiper-slide"><a className="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-5.jpg"><img src="assets/img/gallery/gallery-5.jpg"className="img-fluid" alt="Image not found"/></a></div>
+            <div className="swiper-slide"><a className="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-6.jpg"><img src="assets/img/gallery/gallery-6.jpg" className="img-fluid" alt="Image not found"/></a></div>
+            <div className="swiper-slide"><a className="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-7.jpg"><img src="assets/img/gallery/gallery-7.jpg"className="img-fluid" alt="Image not found"/></a></div>
+            <div className="swiper-slide"><a className="glightbox" data-gallery="images-gallery" href="assets/img/gallery/gallery-8.jpg"><img src="assets/img/gallery/gallery-8.jpg" className="img-fluid" alt="Image not found"/></a></div>
           </div>
           <div className="swiper-pagination"></div>
         </div>
